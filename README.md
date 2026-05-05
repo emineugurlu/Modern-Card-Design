@@ -2,7 +2,7 @@
 
 > **"An advanced UI interaction experiment exploring focused state amplification and background 'shiver' effects through CSS keyframe orchestration."**
 
-![Repo Size](https://img.shields.io/github/repo-size/emineugurlu/Modern-Card-Design?color=cyan&style=flat-square)
+![Repo Size](https://img.shields.io/github/repo-size/Modern-Card-Design?color=cyan&style=flat-square)
 ![Language Count](https://img.shields.io/github/languages/count/emineugurlu/Modern-Card-Design?color=cyan&style=flat-square)
 ![Animation Style](https://img.shields.io/badge/Interaction-Dynamic--Focus-blueviolet?style=flat-square)
 
